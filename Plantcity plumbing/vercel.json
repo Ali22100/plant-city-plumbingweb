@@ -1,0 +1,76 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/commercial-plumbing.html",
+      "destination": "/commercial-plumbing",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning.html",
+      "destination": "/drain-cleaning",
+      "permanent": true
+    },
+    {
+      "source": "/emergency-plumbing-services.html",
+      "destination": "/emergency-plumbing-services",
+      "permanent": true
+    },
+    {
+      "source": "/locations.html",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-repairs.html",
+      "destination": "/plumbing-repairs",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/quickflow-plumbing-downtown-plant-city.html",
+      "destination": "/quickflow-plumbing-downtown-plant-city",
+      "permanent": true
+    },
+    {
+      "source": "/quickflow-plumbing-historic-downtown-plant-city.html",
+      "destination": "/quickflow-plumbing-historic-downtown-plant-city",
+      "permanent": true
+    },
+    {
+      "source": "/residential-plumbing.html",
+      "destination": "/residential-plumbing",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    }
+  ]
+}
